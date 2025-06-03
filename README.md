@@ -1,7 +1,7 @@
 This is an old app for an ESP32 to run a prop for an escape room.  The key features are:
 
-4 wires have to be disconned in a specific order.
-Clock wiht 7-segment display (MM:SS) counts down.
-Interacts via HTTP get from other softwar.
+4 wires have to be disconnected in a specific order.
+Clock with 7-segment display (MM:SS) counts down.
+Interacts via HTTP get from other software.
 
-This app is depreciated and no longer in use.  
+This app is deprecated and no longer in use.
